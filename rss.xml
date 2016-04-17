@@ -4,8 +4,15 @@
         <description><![CDATA[On tot és possible!]]></description>
         <link>https://thegrid.ai/aralia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:27:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aralia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ja tenim Logo!]]></title>
+            <description><![CDATA[<article><h1>Ja tenim Logo!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64f3bf8d49fb544914865a85708dced8741ba5dd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aralia/541420a1-4768-4a0f-98e4-c5c1e431c441/index.html</link>
+            <guid isPermaLink="false">541420a1-4768-4a0f-98e4-c5c1e431c441</guid>
+            <pubDate>Sun, 17 Apr 2016 17:27:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello! 60€ primera consulta i..]]></title>
             <description><![CDATA[<article><h1>Hello! 60€ primera consulta i..</h1><p>Text sense imatge!</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/aralia/ja-tenim-targeta-de-visita/index.html</link>
             <guid isPermaLink="false">75e74d0c-61a8-49f9-bbf5-0a45774c2eb3</guid>
             <pubDate>Sun, 17 Apr 2016 17:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ja tenim Logo!]]></title>
-            <description><![CDATA[<article><h1>Ja tenim Logo!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64f3bf8d49fb544914865a85708dced8741ba5dd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/aralia/541420a1-4768-4a0f-98e4-c5c1e431c441/index.html</link>
-            <guid isPermaLink="false">541420a1-4768-4a0f-98e4-c5c1e431c441</guid>
-            <pubDate>Sun, 17 Apr 2016 15:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

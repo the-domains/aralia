@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Benvinguts altre cop, aquí comença tot..'
-datePublished: '2016-04-17T14:24:30.219Z'
-dateModified: '2016-04-17T14:24:29.711Z'
-title: ''
+datePublished: '2016-04-17T14:35:23.497Z'
+dateModified: '2016-04-17T14:26:54.741Z'
+title: 'Hello! 60€ primera consulta i..'
 author: []
+sourcePath: _posts/2016-04-17-benvinguts-altre-cop-aqui-comenca-tot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-benvinguts-altre-cop-aqui-comenca-tot.md
-published: true
 url: benvinguts-altre-cop-aqui-comenca-tot/index.html
 _type: Article
 

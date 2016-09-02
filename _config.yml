@@ -1,29 +1,41 @@
-name: Aràlia
-favicon: null
-layout_spectrum: 0.23372
-typography_spectrum: 0.04911
-title: "No tinguis por dels canvis lents, només tingue'n de permanèixer immòbil."
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: 'No tinguis por dels canvis lents, només tingue''n de permanèixer immòbil.'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0.5625
   brandColors:
     - '#ffffff'
     - '#156683'
     - '#9db8ce'
     - '#f8a691'
     - '#9d8779'
-  brandStrength: 0.5625
-  lightness: 0.5625
-  saturation: 0.91206024447456
-  rhythmicContrast: 0.3945256853476167
-purpose: []
+  rhythmicContrast: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Aràlia
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.04911
+layout_spectrum: 0
